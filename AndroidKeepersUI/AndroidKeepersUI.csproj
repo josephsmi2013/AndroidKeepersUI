@@ -176,11 +176,6 @@
     <AndroidResource Include="Resources\drawable\trophy.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\layout\layout1.xml">
-      <SubType>Designer</SubType>
-    </AndroidResource>
-  </ItemGroup>
-  <ItemGroup>
     <AndroidResource Include="Resources\layout\register.xml">
       <SubType>Designer</SubType>
     </AndroidResource>
