@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="colorPrimary">#0690C1</color>
+   <color name="colorPrimaryDark">#06749B</color>
+   <color name="colorAccent">#EE861F</color>
+  
+  <color name="splashBackground">#ffff</color>
+
+  <color name="fflPrimaryColor">#1C4258</color>
+  <color name="fflPrimaryDarkColor">#EE861F</color>
+  <color name="fflAccentColor">#102A38</color>
+  <color name="fflWhiteColor">#ffff</color>
+  
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidKeepersUI</string>
+    <string name="action_settings">Settings</string>
+
+  <string name="fullNameText">Login</string>  
+  <string name="loginText">Login</string>
+  <string name="emailText">Email</string>
+  <string name="passwordText">Password</string>
+  <string name="loginLabelText">Draft Dollars</string>
+  <string name="registerText">Not Registered, Click to Register</string>
+  <string name="registerButtonText">Register</string>
+
+</resources>

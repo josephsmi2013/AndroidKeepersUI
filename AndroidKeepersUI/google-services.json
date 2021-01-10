@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1091280054913",
+    "project_id": "androidkeepersui",
+    "storage_bucket": "androidkeepersui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091280054913:android:ca40aae75a247d8a71fb80",
+        "android_client_info": {
+          "package_name": "com.keepers.androidkeepersui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091280054913-qp57hkv33qpcaq0khh486cuoerkgl9sc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keepers.androidkeepersui",
+            "certificate_hash": "c6cece6fce786706733dcc597dc0d8a64b261269"
+          }
+        },
+        {
+          "client_id": "1091280054913-m7jj605ts64b7uhbb3ishrnfcr2937uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVYM3TBBaY8WP83eQoL43vqKtfzG5wI4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091280054913-m7jj605ts64b7uhbb3ishrnfcr2937uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
